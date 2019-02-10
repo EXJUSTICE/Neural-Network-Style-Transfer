@@ -8,6 +8,8 @@ Utilizes Python, KERAS & Tensorflow.
 <p align="center">
   <img src="https://i.imgur.com/ayfDZs8.png" width=" >
 </p>
+                                                    
+                                                    
 <p align="center">
   <b>MRI of the author's head in the style of the Great Wave of Kanagawa.</b><br>
  
