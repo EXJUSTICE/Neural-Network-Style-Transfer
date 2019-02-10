@@ -6,7 +6,7 @@ Utilizes Python, KERAS & Tensorflow.
 
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/ayfDZs8.png" width=" >
+  <img src="https://i.imgur.com/ayfDZs8.png">
 </p>
                                                     
                                                     
